@@ -1,0 +1,50 @@
+body {
+	background-position: center;
+    font-family: verdana;
+	background-color: #e1bcb5;
+	margin: 0;
+}
+
+.topnav {
+		background-color: #a26150;
+		overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.login {
+	float: right;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	margin-right: 25px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: #f5b97b;
+	color: black;
+}
+
+input[type=submit] {
+	background-color: #a26150;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+legend {
+	font-size: 28px;
+}
+
+table {
+	width: 100%;
+}
+
+tr {
+	height: 70px;
+}
